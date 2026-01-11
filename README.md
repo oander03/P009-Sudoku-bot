@@ -22,8 +22,10 @@ import cv2
 
 ## Notes
 To use open the website and ctrl + to enlarge it to 300% then line up
-the top to as near to the border as posible. Use the image in this folder
+the top to as near to the border as posible. Use this image
 as a guild to set it up.
+
+<img width="1920" height="1080" alt="sudoku bot set up" src="https://github.com/user-attachments/assets/ba7f7990-d09a-4338-9ba1-8418eea41b34" />
 
 
 # Contact 📬
