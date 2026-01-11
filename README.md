@@ -1,5 +1,5 @@
 # Sudoku bot
-This script is made to do the sudoku on: https://sudoku.com/   
+This script is made to do the **sudoku** on: https://sudoku.com/   
 
 
 https://github.com/user-attachments/assets/efc008f2-bf71-4f85-88f2-8a61535dfc2b
